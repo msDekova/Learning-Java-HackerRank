@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 class MyRegex{
     String pattern;
+    Myregex(){
+        pattern = null;
+    }
     MyRegex(String pattern){
         setPattern(pattern);
     }
