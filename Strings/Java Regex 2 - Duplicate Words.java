@@ -1,3 +1,8 @@
+/*
+In this challenge, we use regular expressions (RegEx) to remove instances of words that are repeated more than once,
+but retain the first occurrence of any case-insensitive repeated word.
+*/
+
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
