@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class Solution {
+public class JavaList {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
